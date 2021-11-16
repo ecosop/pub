@@ -47,7 +47,9 @@ __Beschreibung__|__Das Modul *B.Psy.502 Wirtschaftspsychologie I* erstreckt sich
 __Turnus__|Jedes Sommersemester
 __Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-goettingen.de/modulbeschreibungen/2240.pdf){:target="_blank"}
 __Zugangsvoraussetzungen__|[B.Psy.101 Quantitative Methoden I](https://flexnow2.uni-goettingen.de/modulbeschreibungen/2078.pdf){:target="_blank"}<br>[B.Psy.102 Quantitative Methoden II](https://flexnow2.uni-goettingen.de/modulbeschreibungen/2083.pdf){:target="_blank"}
-__Anmeldeinformationen__|Die Anmeldung zum Modul (im Wintersemester) und zur Klausur (im Sommersemester) erfolgt für alle Studierenden über die [Prüfungsverwaltung FlexNow](https://flexnow2.uni-goettingen.de){:target="_blank"}. Informationen zu Fristen und Terminen für die Modul- und Klausuranmeldung finden sich auf den Webseiten des zuständigen Prüfungsamtes:<br>[Informationen zur Modulanmeldung](https://www.uni-goettingen.de/de/114786.html){:target="_blank"}<br>[Informationen zur Klausuranmeldung](https://www.uni-goettingen.de/de/186223.html){:target="_blank"}<br><br>__ACHTUNG:__ Die Anmeldung zum Modul erfolgt bereits im Wintersemester zur Vorlesung _B.Psy.502 Wirtschaftspsychologie I: Arbeitspsychologie_.<br><br>__Die fristgerechte Modulanmeldung im Wintersemester ist Voraussetzung für die Prüfungsanmeldung im Sommersemester!__
+__Anmeldeinformationen__|Die Anmeldung zum Modul (im Wintersemester) und zur Klausur (im Sommersemester) erfolgt für alle Studierenden über die [Prüfungsverwaltung FlexNow](https://flexnow2.uni-goettingen.de){:target="_blank"}. Informationen zu Fristen und Terminen für die Modul- und Klausuranmeldung finden sich auf den Webseiten des zuständigen Prüfungsamtes:<br>[Informationen zur Modulanmeldung](https://www.uni-goettingen.de/de/114786.html){:target="_blank"}<br>[Informationen zur Klausuranmeldung](https://www.uni-goettingen.de/de/186223.html){:target="_blank"}<br><br>Die Kurseinteilung für die Parallelkurse A bis C erfolgt über eine __Umfrage__. Die Umfrage wird für den Zeitraum vom __1. bis einschließlich 7. April__ freigeschaltet. Der entsprechende Link wird vorher auf der [Webseite der Abteilung für Wirtschafts- und Sozialpsychologie](https://www.psych.uni-goettingen.de/de/eco-soc/news){:target="_blank"} sowie auf dem [Psychoblog](http://www.psychoblog.uni-goettingen.de/){:target="_blank"} bekannt gegeben. __Die Einteilung zu den Seminaren A bis C wird eine Woche vor Veranstaltungsbeginn veröffentlicht.__<br><br>
+
+__ACHTUNG:__ Die Anmeldung zum Modul erfolgt bereits im Wintersemester zur Vorlesung _B.Psy.502 Wirtschaftspsychologie I: Arbeitspsychologie_.<br><br>__Die fristgerechte Modulanmeldung im Wintersemester ist Voraussetzung für die Prüfungsanmeldung im Sommersemester!__
 
 ## Lehrveranstaltungen im Masterstudium
 
@@ -68,10 +70,12 @@ __Anmeldeinformationen__|Die Anmeldung zum Modul erfolgt für alle Studierenden 
 |Veranstaltungstitel|M.Psy.502 Gruppenurteile, Gruppenentscheidungen und Gruppenleistung|
 |:--|:--|
 __Beschreibung__|Die sozialpsychologische Forschung zur Gruppenleistung hat sich bisher stark auf den Nachweis von Prozessverlusten konzentriert, die die Leistungsfähigkeit von Gruppen verringern. Erst in neueren Arbeiten konnten auch systematisch Prozessgewinne nachgewiesen werden, d.h. Mechanismen, durch die eine Gruppe interagierender Personen mehr leisten kann als dieselbe Anzahl von Personen, die eine Aufgabe individuell bearbeiten. Im Rahmen des Moduls lernen die Studierenden die sozialpsychologische Forschung zu leistungsvermindernden Prozessverlusten bei der Bearbeitung von drei Arten unteilbarer Aufgaben durch Gruppen wie auch die neueren Arbeiten zu leistungssteigernden Prozessgewinnen in Gruppen kennen.
-__Turnus__|Jedes Wintersemester
+__Turnus__|Jedes Sommersemester
 __Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-goettingen.de/modulbeschreibungen/1947.pdf){:target="_blank"}
 __Zugangsvoraussetzungen__|Keine
 __Anmeldeinformationen__|Die Anmeldung zum Modul erfolgt für alle Studierenden zentral durch Frau Dr. Brinkmann ([Informationen zur Modulanmeldung](https://www.uni-goettingen.de/de/114786.html){:target="_blank"}).<br><br>Die Anmeldung zur Prüfung erfolgt über die [Prüfungsverwaltung FlexNow](https://flexnow2.uni-goettingen.de){:target="_blank"}. Informationen zu Fristen und Terminen für die Prüfungsanmeldung finden sich auf den Webseiten des zuständigen Prüfungsamtes ([Informationen zur Prüfungsanmeldung](https://www.uni-goettingen.de/de/186223.html){:target="_blank"}).
+
+<!-- The following module is commented out because we currently do not offer it
 
 ---
 
@@ -84,6 +88,7 @@ __Turnus__|Jedes Sommersemester
 __Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-goettingen.de/modulbeschreibungen/1948.pdf){:target="_blank"}
 __Zugangsvoraussetzungen__|Keine
 __Anmeldeinformationen__|Die Anmeldung zum Modul erfolgt für alle Studierenden zentral durch Frau Dr. Brinkmann ([Informationen zur Modulanmeldung](https://www.uni-goettingen.de/de/114786.html){:target="_blank"}).<br><br>Die Anmeldung zur Prüfung erfolgt über die [Prüfungsverwaltung FlexNow](https://flexnow2.uni-goettingen.de){:target="_blank"}. Informationen zu Fristen und Terminen für die Prüfungsanmeldung finden sich auf den Webseiten des zuständigen Prüfungsamtes ([Informationen zur Prüfungsanmeldung](https://www.uni-goettingen.de/de/186223.html){:target="_blank"}).
+-->
 
 ---
 
@@ -133,6 +138,8 @@ __Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-go
 __Zugangsvoraussetzungen__|Keine
 __Anmeldeinformationen__|Die Anmeldung zum Modul erfolgt für alle Studierenden zentral durch Frau Dr. Brinkmann ([Informationen zur Modulanmeldung](https://www.uni-goettingen.de/de/114786.html){:target="_blank"}).<br><br>Die Anmeldung zur Prüfung erfolgt über die [Prüfungsverwaltung FlexNow](https://flexnow2.uni-goettingen.de){:target="_blank"}. Informationen zu Fristen und Terminen für die Prüfungsanmeldung finden sich auf den Webseiten des zuständigen Prüfungsamtes ([Informationen zur Prüfungsanmeldung](https://www.uni-goettingen.de/de/186223.html){:target="_blank"}).
 
+<!-- The following module is commented out because we currently do not offer it
+
 ---
 
 ### M.Psy.515 Organisationales Entscheiden
@@ -142,6 +149,20 @@ __Anmeldeinformationen__|Die Anmeldung zum Modul erfolgt für alle Studierenden 
 __Beschreibung__|Im ersten Teil des Moduls werden die Grundlagen der Urteils- und Entscheidungsforschung in einen angewandten Kontext übertragen, wobei Gesetzmäßigkeiten wie zum Beispiel systematische Verzerrungen (Bias) herausgearbeitet werden. Im zweiten Teil des Moduls stehen insbesondere finanzielle Fehlentscheidungen im Mittelpunkt (z.B. Verlusteskalationen). Die Studierenden lernen dabei theoretische Erklärungsansätze, moderierende Faktoren und mögliche Interventionen kennen.
 __Turnus__|Jedes Wintersemester
 __Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-goettingen.de/modulbeschreibungen/43582.pdf){:target="_blank"}
+__Zugangsvoraussetzungen__|Keine
+__Anmeldeinformationen__|Die Anmeldung zum Modul erfolgt für alle Studierenden zentral durch Frau Dr. Brinkmann ([Informationen zur Modulanmeldung](https://www.uni-goettingen.de/de/114786.html){:target="_blank"}).<br><br>Die Anmeldung zur Prüfung erfolgt über die [Prüfungsverwaltung FlexNow](https://flexnow2.uni-goettingen.de){:target="_blank"}. Informationen zu Fristen und Terminen für die Prüfungsanmeldung finden sich auf den Webseiten des zuständigen Prüfungsamtes ([Informationen zur Prüfungsanmeldung](https://www.uni-goettingen.de/de/186223.html){:target="_blank"}).
+
+-->
+
+---
+
+### M.Psy.517 Führung: Entstehung, Prozesse und Erfolgsfaktoren
+
+|Veranstaltungstitel|M.Psy.517 Führung: Entstehung, Prozesse und Erfolgsfaktoren|
+|:--|:--|
+__Beschreibung__|Im Rahmen des Moduls lernen die Studierenden grundlegende Themen und Erkenntnisse der vorrangig organisationspsychologischen Führungsforschung kennen. Erarbeitet werden Theorien und Befunde dazu, welche Personen unter welchen Bedingungen zu Führungspersonen werden und welche Prozesse und Faktoren zum Erfolg von Führung beitragen. Die Modulteilnehmer/innen lernen, diese Theorien und Befunde fundiert und kritisch zu diskutieren, sowie gut gesicherte Erkenntnisse auf Anwendungssituationen im Betrieb und im sozialen Alltag zu übertragen.
+__Turnus__|Jedes Sommersemester
+__Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-goettingen.de/modulbeschreibungen/90544.pdf){:target="_blank"}
 __Zugangsvoraussetzungen__|Keine
 __Anmeldeinformationen__|Die Anmeldung zum Modul erfolgt für alle Studierenden zentral durch Frau Dr. Brinkmann ([Informationen zur Modulanmeldung](https://www.uni-goettingen.de/de/114786.html){:target="_blank"}).<br><br>Die Anmeldung zur Prüfung erfolgt über die [Prüfungsverwaltung FlexNow](https://flexnow2.uni-goettingen.de){:target="_blank"}. Informationen zu Fristen und Terminen für die Prüfungsanmeldung finden sich auf den Webseiten des zuständigen Prüfungsamtes ([Informationen zur Prüfungsanmeldung](https://www.uni-goettingen.de/de/186223.html){:target="_blank"}).
 
@@ -157,25 +178,25 @@ Informationen zum Lehrangebot der Abteilung für Sozial- und Kommunikationspsych
 
 __Studierende in allen Bachelorstudiengängen der sozialwissenschaftlichen Fakultät können die Veranstaltungen B.Psy.005S und B.Psy.501 als Schlüsselkompetenzveranstaltungen belegen__. Darüber hinaus können Studierende in spezifischen Bachelorstudiengängen verschiedene Lehrveranstaltungen im Rahmen außerfachlicher Kompetenzbereiche belegen.
 
-__Studierende im Studiengang Soziologie (B.A.)__ können den zulassungsbeschränkten _außersoziologischen Kompetenzbereich_ Wirtschafts- und Sozialpsychologie belegen ([http://www.uni-goettingen.de/de/85390.html](http://www.uni-goettingen.de/de/85390.html){:target="_blank"}). Im Rahmen dieses Kompetenzbereichs bietet die Abteilung für Wirtschafts- und Sozialpsychologie die Veranstaltungen B.Psy.005S, B.Psy.501, B.Psy.503S und B.Psy.504S an. Eine Teilnahme an B.Psy.503S und B.Psy.504S ist nur für Studierende möglich, die zum Kompetenzbereich Wirtschafts- und Sozialpsychologie zugelassen sind.
+__Studierende im Studiengang Soziologie (B.A.)__ können den zulassungsbeschränkten _außersoziologischen Kompetenzbereich_ Wirtschafts- und Sozialpsychologie belegen ([http://www.uni-goettingen.de/de/85390.html](http://www.uni-goettingen.de/de/85390.html){:target="_blank"}). Im Rahmen dieses Kompetenzbereichs bietet die Abteilung für Wirtschafts- und Sozialpsychologie die Veranstaltungen B.Psy.005S, B.Psy.501, B.Psy.503S und B.Psy.504S an. Eine Teilnahme an B.Psy.503S und B.Psy.504S ist nur für Studierende möglich, die zum Kompetenzbereich Wirtschafts- und Sozialpsychologie zugelassen sind. Die Module B.Psy.503S und B.Psy.504S können auch dann belegt werden, wenn B.Psy.501 noch nicht erfolgreich abgeschlossen wurde. In diesem Fall werden die erbrachten Leistungen aus B.Psy.503S und B.Psy.504S erst dann in FlexNow verbucht, wenn die Prüfungsleistung aus B.Psy.501 vorliegt.
 
-__Studierende im Studiengang Ethnologie (B.A.)__ können den zulassungsbeschränkten _außerethnologischen Kompetenzbereich_ Wirtschafts- und Sozialpsychologie belegen ([http://www.uni-goettingen.de/de/85390.html](http://www.uni-goettingen.de/de/85390.html){:target="_blank"}). Im Rahmen dieses Kompetenzbereichs bietet die Abteilung für Wirtschafts- und Sozialpsychologie die Veranstaltungen B.Psy.005S, B.Psy.501, B.Psy.503S und B.Psy.504S an. Eine Teilnahme an B.Psy.503S und B.Psy.504S ist nur für Studierende möglich, die zum Kompetenzbereich Wirtschafts- und Sozialpsychologie zugelassen sind.
+__Studierende im Studiengang Ethnologie (B.A.)__ können den zulassungsbeschränkten _außerethnologischen Kompetenzbereich_ Wirtschafts- und Sozialpsychologie belegen ([http://www.uni-goettingen.de/de/85390.html](http://www.uni-goettingen.de/de/85390.html){:target="_blank"}). Im Rahmen dieses Kompetenzbereichs bietet die Abteilung für Wirtschafts- und Sozialpsychologie die Veranstaltungen B.Psy.005S, B.Psy.501, B.Psy.503S und B.Psy.504S an. Eine Teilnahme an B.Psy.503S und B.Psy.504S ist nur für Studierende möglich, die zum Kompetenzbereich Wirtschafts- und Sozialpsychologie zugelassen sind. Die Module B.Psy.503S und B.Psy.504S können auch dann belegt werden, wenn B.Psy.501 noch nicht erfolgreich abgeschlossen wurde. In diesem Fall werden die erbrachten Leistungen aus B.Psy.503S und B.Psy.504S erst dann in FlexNow verbucht, wenn die Prüfungsleistung aus B.Psy.501 vorliegt.
 
 __Studierende im Studiengang Politikwissenschaft (B.A.)__ können den zulassungsbeschränkten _außerpolitikwissenschaftlichen Kompetenzbereich_ Mensch und Gesellschaft belegen ([http://www.uni-goettingen.de/de/413494.html](http://www.uni-goettingen.de/de/413494.html){:target="_blank"}). Im Rahmen dieses Kompetenzbereichs werden die Veranstaltungen B.Psy.005S und B.Psy.501 angeboten. Eine Teilnahme an B.Psy.503S und B.Psy.504S ist in diesem außerfachlichen Kompetenzbereich nicht vorgesehen.
 
 ### Für Studierende der wirtschaftswissenschaftlichen Fakultät
 
-__Studierende in allen Bachelorstudiengängen der wirtschaftswissenschaftlichen Fakultät__ können die Veranstaltungen B.Psy.005S und B.Psy.501, sofern ein entsprechender Wahlbereich in der jeweiligen Studienordnung verankert ist:  
+__Studierende in allen Bachelorstudiengängen der wirtschaftswissenschaftlichen Fakultät__ können die Veranstaltungen B.Psy.005S und B.Psy.501, sofern ein entsprechender Wahlbereich in der jeweiligen Studienordnung verankert ist:
 
 __Studierende im Bachelorstudiengang Volkswirtschaftslehre (B.A.)__ können im Wahlbereich das _Fachgebiet Wirtschafts- und Sozialpsychologie_ belegen (Siehe [Prüfungs- und Studienordnung VWL](https://www.uni-goettingen.de/de/37928.html){:target="_blank"}). Im Rahmen dieses Fachgebietes werden die Veranstaltungen B.Psy.005S und B.Psy.501 angeboten.
 
 __Studierende im Bachelorstudiengang Betriebswirtschaftslehre (B.Sc.)__ können im Wahlbereich das _Fachgebiet Wirtschafts- und Sozialpsychologie_ belegen (Siehe [Prüfungs- und Studienordnung BWL](https://www.uni-goettingen.de/de/37881.html){:target="_blank"}). Im Rahmen dieses Fachgebietes werden die Veranstaltungen B.Psy.005S und B.Psy.501 angeboten.
 
-__Studierende im Bachelorstudiengang Wirtschaftsinformatik (B.Sc.)__ können im _Wahlbereich Schlüsselqualifikationen_ die Veranstaltung B.Psy.005S belegen (Siehe [Prüfungs- und Studienordnung WiInf](https://www.uni-goettingen.de/de/37908.html){:target="_blank"}). __ACHTUNG:__ Die aktuelle Prüfungs- und Studienordnung enthält eine veraltete Darstellung von B.Psy.005S in Form von zwei separaten Teilmodulen. Eine Teilnahme ist jedoch ausschließlich am Gesamtmodul, d.h. an beiden Vorlesungen, möglich.
+__Studierende im Bachelorstudiengang Wirtschaftsinformatik (B.Sc.)__ können im _Wahlbereich Schlüsselqualifikationen_ die Veranstaltung B.Psy.005S belegen (Siehe [Prüfungs- und Studienordnung WiInf](https://www.uni-goettingen.de/de/37908.html){:target="_blank"}).
 
 ### Für Studierende anderer Fakultäten
 
-Eine __Teilnahme an den Lehrveranstaltungen B.Psy.005S und B.Psy.501__ im Rahmen eines Wahlbereichs ist nach vorheriger Anmeldung per E-Mail an knoerte1@gwdg.de möglich. Melden Sie sich bitte mindestens zwei Wochen vor Veranstaltungsbeginn an. Bitte geben Sie dabei Ihren vollständigen Namen sowie Ihre Matrikelnummer an.
+Eine __Teilnahme an den Lehrveranstaltungen B.Psy.005S und B.Psy.501__ im Rahmen eines Wahlbereichs ist nach vorheriger Anmeldung per E-Mail an knoerte1@gwdg.de möglich. Melden Sie sich bitte mindestens zwei Wochen vor Veranstaltungsbeginn an. Bitte geben Sie dabei Ihren vollständigen Namen sowie Ihre Matrikelnummer an. Bitte versuchen Sie im Anschluss, sich selbstständig per FlexNow zum Modul (und dann zur Klausur) anzumelden. Falls dabei Probleme auftreten sollten, melden Sie sich bitte erneut bei Kerstin Nörtemann (knoerte1@gwdg.de).
 
 ## Lehrveranstaltungen für Nebenfachstudierende im Bachelorstudium
 
@@ -243,12 +264,16 @@ Die [Abteilung für Sozial- und Kommunikationspsychologie](https://www.psych.uni
 
 __Studierende in den Masterstudiengängen Soziologie (M.A.), Ethnologie (M.A.), sowie Globale Politik: Strukturen und Grenzen (M.A.)__ können im Rahmen des fachexternen Modulpakets _Wirtschafts- und Sozialpsychologie_ an Veranstaltungen aus dem regulären Modulprogramm im _Master of Science „Psychologie“_ teilzunehmen. Die Abteilung für Wirtschafts- und Sozialpsychologie bietet in diesem Rahmen folgende Veranstaltungen an:
 
+<!-- 
+* M.Psy.503 Gruppenlernen 
+* M.Psy.515 Organisationales Entscheiden
+-->
+
 * M.Psy.502 Gruppenurteile, Gruppenentscheidungen und Gruppenleistung
-* M.Psy.503 Gruppenlernen
 * M.Psy.504 Arbeitspsychologie (falls freie Plätze vorhanden)
 * M.Psy.511 Sozialer Einfluss
 * M.Psy.513 Verhandeln und Konfliktlösung
-* M.Psy.515 Organisationales Entscheiden
+* M.Psy.517 Führung: Entstehung, Prozesse und Erfolgsfaktoren
 
 Pro Modul stehen 5 Plätze für Masterstudierende aus sozialwissenschaftlichen Studiengängen zu Verfügung (Ausnahme: Kein festes Platzkontingent in der Veranstaltung M.Psy.504). Nur Studierende, die zum Modulpaket _Wirtschafts- und Sozialpsychologie_ zugelassen sind, können an den Veranstaltungen teilnehmen. Die Veranstaltungen werden gemeinsam von Studierenden der Psychologie (10 Plätze), der Sozialwissenschaften (5 Plätze) und der Wirtschaftswissenschaften (5 Plätze) besucht.
 
@@ -264,26 +289,32 @@ Für die aufgeführten Lehrveranstaltungen ist eine gesonderte Anmeldung erforde
 
 Studierende der wirtschaftswissenschaftlichen Masterstudiengänge haben die Möglichkeit, im Wahlbereich ihres Faches Module aus der Wirtschafts- und Sozialpsychologie zu belegen. Die Abteilung für Wirtschafts- und Sozialpsychologie bietet in diesem Rahmen folgende Veranstaltungen an:
 
-* M.Psy.502 Gruppenurteile, Gruppenentscheidungen und Gruppenleistung
+<!-- 
 * M.Psy.503 Gruppenlernen
+* M.Psy.515 Organisationales Entscheiden
+-->
+
+* M.Psy.502 Gruppenurteile, Gruppenentscheidungen und Gruppenleistung
 * M.Psy.504 Arbeitspsychologie (falls freie Plätze vorhanden)
 * M.Psy.511 Sozialer Einfluss
 * M.Psy.513 Verhandeln und Konfliktlösung
-* M.Psy.515 Organisationales Entscheiden
+* M.Psy.517 Führung: Entstehung, Prozesse und Erfolgsfaktoren
 
 Pro Modul stehen 5 Plätze für Masterstudierende aus wirtschaftswissenschaftlichen Studiengängen zu Verfügung (Ausnahme: Kein festes Platzkontingent in der Veranstaltung M.Psy.504). Die Module sind Teil des regulären Modulprogramms im Master of Science „Psychologie“; die Veranstaltungen werden gemeinsam von Studierenden der Psychologie (10 Plätze), der Sozialwissenschaften (5 Plätze) und der Wirtschaftswissenschaften (5 Plätze) besucht.
 
 __Besondere Teilnahmevoraussetzungen:__
 
-__Voraussetzung für die Aufnahme in die Master-Module ist der Nachweis von mindestens 8 CP aus dem Bereich Psychologie.__ Wir setzen außerdem voraus, dass psychologische Forschungsmethoden, insbesondere Experimentalmethoden inkl. zugehörigen Grundwissens in der Inferenzstatistik, bekannt sind, oder dass entsprechende Kenntnisse ggf. vor Beginn der Veranstaltungen per Selbststudium erworben werden. Als Einführungsliteratur empfehlen wir hierzu:
-
-_Huber, O. (2005). Das psychologische Experiment. Eine Einführung. Huber, Bern._
+__Voraussetzung für die Aufnahme in die Master-Module ist der Nachweis von mindestens 8 CP aus dem Bereich Psychologie.__ Wir setzen außerdem voraus, dass psychologische Forschungsmethoden, insbesondere Experimentalmethoden inkl. zugehörigen Grundwissens in der Inferenzstatistik, bekannt sind. Daher müssen, zusätzlich zu den 8 CP aus dem Bereich Psychologie, mind. 6 CP aus dem Bereich Forschungsmethoden und mind. 6 CP aus dem Bereich Statistik nachgewiesen werden.
 
 Ohne bereits vorhandene Methodenkenntnisse ist eine Teilnahme an den Modulen der Wirtschafts- und Sozialpsychologie nicht möglich.
+
+Bitte informieren Sie sich vorab bei Ihrem Prüfungsamt, ob Ihnen die interessierenden Veranstaltungen angerechnet werden können.
 
 __Seminaranmeldung:__
 
 Für die aufgeführten Lehrveranstaltungen ist eine gesonderte Anmeldung erforderlich. Sie erfolgt per E-Mail bei Frau Dr. Brinkmann (studienbuero@psych.uni-goettingen.de). Aktuelle Anmeldefristen finden Sie [hier](https://www.uni-goettingen.de/de/prüfungsamt/114786.html){:target="_blank"}. Bei mehr InteressentInnen als vorhandenen Plätzen werden die endgültigen TeilnehmerInnen ausgelost. Nicht ausgeschöpfte Platzkontingente eines Faches können von Studierenden der anderen Fächer genutzt werden.
+
+Die oben beschriebenen besonderen Teilnahmevoraussetzungen sowie die Informationen zu der Seminaranmeldung gelten sowohl für die genannten Module der Abteilung für Wirtschafts- und Sozialpsychologie als auch für die Module der Abteilung für Sozial- und Kommunikationspsychologie (Prof. Boos).
 
 ### Für Studierende anderer Fakultäten
 
@@ -301,6 +332,8 @@ __Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-go
 __Zugangsvoraussetzungen__|Beachten Sie bitte die weiter oben erläuterten Zugangsvoraussetzungen für Ihren jeweiligen Studiengang.
 __Anmeldeinformationen__|Für die Lehrveranstaltung ist eine gesonderte Anmeldung erforderlich. Sie erfolgt per E-Mail bei Frau Dr. Brinkmann (studienbuero@psych.uni-goettingen.de). Aktuelle Anmeldefristen finden Sie [hier](https://www.uni-goettingen.de/de/prüfungsamt/114786.html){:target="_blank"}. Bei mehr InteressentInnen als vorhandenen Plätzen werden die endgültigen TeilnehmerInnen ausgelost. Nicht ausgeschöpfte Platzkontingente eines Faches können von Studierenden der anderen Fächer genutzt werden.
 
+<!-- The following module is commented out because we currently do not offer it
+
 ---
 
 ### M.Psy.503 Gruppenlernen
@@ -312,6 +345,8 @@ __Turnus__|Jedes Sommersemester
 __Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-goettingen.de/modulbeschreibungen/1948.pdf){:target="_blank"}
 __Zugangsvoraussetzungen__|Beachten Sie bitte die weiter oben erläuterten Zugangsvoraussetzungen für Ihren jeweiligen Studiengang.
 __Anmeldeinformationen__|Für die Lehrveranstaltung ist eine gesonderte Anmeldung erforderlich. Sie erfolgt per E-Mail bei Frau Dr. Brinkmann (studienbuero@psych.uni-goettingen.de). Aktuelle Anmeldefristen finden Sie [hier](https://www.uni-goettingen.de/de/prüfungsamt/114786.html){:target="_blank"}. Bei mehr InteressentInnen als vorhandenen Plätzen werden die endgültigen TeilnehmerInnen ausgelost. Nicht ausgeschöpfte Platzkontingente eines Faches können von Studierenden der anderen Fächer genutzt werden.
+
+-->
 
 ---
 
@@ -349,6 +384,8 @@ __Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-go
 __Zugangsvoraussetzungen__|Beachten Sie bitte die weiter oben erläuterten Zugangsvoraussetzungen für Ihren jeweiligen Studiengang.
 __Anmeldeinformationen__|Für die Lehrveranstaltung ist eine gesonderte Anmeldung erforderlich. Sie erfolgt per E-Mail bei Frau Dr. Brinkmann (studienbuero@psych.uni-goettingen.de). Aktuelle Anmeldefristen finden Sie [hier](https://www.uni-goettingen.de/de/prüfungsamt/114786.html){:target="_blank"}. Bei mehr InteressentInnen als vorhandenen Plätzen werden die endgültigen TeilnehmerInnen ausgelost. Nicht ausgeschöpfte Platzkontingente eines Faches können von Studierenden der anderen Fächer genutzt werden.
 
+<!-- The following module is commented out because we currently do not offer it
+
 ---
 
 ### M.Psy.515 Organisationales Entscheiden
@@ -358,6 +395,20 @@ __Anmeldeinformationen__|Für die Lehrveranstaltung ist eine gesonderte Anmeldun
 __Beschreibung__|Im ersten Teil des Moduls werden die Grundlagen der Urteils- und Entscheidungsforschung in einen angewandten Kontext übertragen, wobei Gesetzmäßigkeiten wie zum Beispiel systematische Verzerrungen (Bias) herausgearbeitet werden. Im zweiten Teil des Moduls stehen insbesondere finanzielle Fehlentscheidungen im Mittelpunkt (z.B. Verlusteskalationen). Die Studierenden lernen dabei theoretische Erklärungsansätze, moderierende Faktoren und mögliche Interventionen kennen.
 __Turnus__|Jedes Wintersemester
 __Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-goettingen.de/modulbeschreibungen/43582.pdf){:target="_blank"}
+__Zugangsvoraussetzungen__|Beachten Sie bitte die weiter oben erläuterten Zugangsvoraussetzungen für Ihren jeweiligen Studiengang.
+__Anmeldeinformationen__|Für die Lehrveranstaltung ist eine gesonderte Anmeldung erforderlich. Sie erfolgt per E-Mail bei Frau Dr. Brinkmann (studienbuero@psych.uni-goettingen.de). Aktuelle Anmeldefristen finden Sie [hier](https://www.uni-goettingen.de/de/prüfungsamt/114786.html){:target="_blank"}. Bei mehr InteressentInnen als vorhandenen Plätzen werden die endgültigen TeilnehmerInnen ausgelost. Nicht ausgeschöpfte Platzkontingente eines Faches können von Studierenden der anderen Fächer genutzt werden.
+
+-->
+
+---
+
+### M.Psy.517 Führung: Entstehung, Prozesse und Erfolgsfaktoren
+
+|Veranstaltungstitel|M.Psy.517 Führung: Entstehung, Prozesse und Erfolgsfaktoren|
+|:--|:--|
+__Beschreibung__|Im Rahmen des Moduls lernen die Studierenden grundlegende Themen und Erkenntnisse der vorrangig organisationspsychologischen Führungsforschung kennen. Erarbeitet werden Theorien und Befunde dazu, welche Personen unter welchen Bedingungen zu Führungspersonen werden und welche Prozesse und Faktoren zum Erfolg von Führung beitragen. Die Modulteilnehmer/innen lernen, diese Theorien und Befunde fundiert und kritisch zu diskutieren, sowie gut gesicherte Erkenntnisse auf Anwendungssituationen im Betrieb und im sozialen Alltag zu übertragen.
+__Turnus__|Jedes Sommersemester
+__Modulbeschreibung__|[Aktuelle Beschreibung im ModulVZ](https://flexnow2.uni-goettingen.de/modulbeschreibungen/90544.pdf){:target="_blank"}
 __Zugangsvoraussetzungen__|Beachten Sie bitte die weiter oben erläuterten Zugangsvoraussetzungen für Ihren jeweiligen Studiengang.
 __Anmeldeinformationen__|Für die Lehrveranstaltung ist eine gesonderte Anmeldung erforderlich. Sie erfolgt per E-Mail bei Frau Dr. Brinkmann (studienbuero@psych.uni-goettingen.de). Aktuelle Anmeldefristen finden Sie [hier](https://www.uni-goettingen.de/de/prüfungsamt/114786.html){:target="_blank"}. Bei mehr InteressentInnen als vorhandenen Plätzen werden die endgültigen TeilnehmerInnen ausgelost. Nicht ausgeschöpfte Platzkontingente eines Faches können von Studierenden der anderen Fächer genutzt werden.
 
