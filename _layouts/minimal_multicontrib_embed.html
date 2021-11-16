@@ -47,7 +47,7 @@
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
             var author = commits[0]['committer']['login'];
             var author_url = commits[0]['committer']['html_url'];
-            document.getElementById('last-modified').innerHTML = "<small>Latest version committed on <b>" + modified + "</b> by <a href=" + author_url + ">" + author + "</a></small>";
+            document.getElementById('last-modified').innerHTML = "<small>Latest version committed on <b>" + modified + "</b> by " + author + "</small>";
           });
       }
     </script>
