@@ -3,6 +3,10 @@ layout: minimal_multicontrib_embed
 ---
 
 # Lehrangebot der Abteilung für Wirtschafts- und Sozialpsychologie (Stand: 29.11.2018)
+{:.no_toc}
+
+* A markdown unordered list which will be replaced with the ToC
+{:toc}
 
 # Allgemeine Informationen
 
