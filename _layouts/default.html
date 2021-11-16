@@ -19,9 +19,6 @@
       <!-- The following header is displayed as sitebar on the left -->
       <header>
         <h1 style="font-size: 28px; line-height: 1;"><a href="{{ "/" | absolute_url }}">{{ site.github.owner_name }}/{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        <!-- This text might need adjustment when the theme is used in a repository -->
-        <p><small><b>Caution:</b> This page was generated and shared from a private repository and might be accessible only for a limited period of time. Links referring to unshared documents and files within the repository are not functional.</small></p>
 
         <p id="pagelink"></p>
 
@@ -57,7 +54,9 @@
           })
           .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
-            document.getElementById('last-modified').innerHTML = "<small>Updated: " + modified + "</small>";
+            var author = commits[0]['committer']['login'];
+            var author_url = commits[0]['committer']['html_url'];
+            document.getElementById('last-modified').innerHTML = "<small>Latest version committed on <b>" + modified + "</b> by <a href=" + author_url + ">" + author + "</a></small>";
           });
       }
     </script>
