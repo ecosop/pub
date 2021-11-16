@@ -2,15 +2,12 @@
 layout: minimal_multicontrib_embed
 ---
 
-# Lehrangebot der Abteilung für Wirtschafts- und Sozialpsychologie (Stand: 29.11.2018)
-{:.no_toc}
-
 * A markdown unordered list which will be replaced with the ToC
 {:toc}
 
 # Allgemeine Informationen
 
-Termine, Veranstaltungsorte und weitere aktuelle Informationen zu allen Lehrveranstaltung werden jedes Semester im [__UniVZ der Universität Göttingen__](univz.uni-goettingen.de) veröffentlicht. Informationen zu einer der im weiteren Verlauf genannten Veranstaltungen erhalten Sie über die Eingabe des vollständigen Veranstaltungstitels in die _Auskunftsfunktion_ (rechts auf der Startseite des UniVZ).
+Termine, Veranstaltungsorte und weitere aktuelle Informationen zu allen Lehrveranstaltung werden jedes Semester im [__UniVZ der Universität Göttingen__](univz.uni-goettingen.de){:target="_blank"} veröffentlicht. Informationen zu einer der im weiteren Verlauf genannten Veranstaltungen erhalten Sie über die Eingabe des vollständigen Veranstaltungstitels in die _Auskunftsfunktion_ (rechts auf der Startseite des UniVZ).
 
 Die __Modul- und Prüfungsanmeldung__ zu einer Lehrveranstaltung erfolgt, sofern im Folgenden nicht anders angegeben, über die [Prüfungsverwaltung FlexNow](https://flexnow2.uni-goettingen.de). Sie benötigen hierfür die Zugangsdaten Ihres [Studierendenaccounts](https://wiki.student.uni-goettingen.de/support/account/start). Wenn Sie Fragen oder Probleme bezüglich einer Modul- oder Prüfungsanmeldung haben, wenden Sie sich bitte an Ihr zuständiges Prüfungsamt. Das Prüfungsamt für Psychologie finden Sie [hier](https://www.uni-goettingen.de/de/114786.html).
 
